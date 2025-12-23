@@ -99,4 +99,5 @@ docker run -d -p 5000:5000 183shubham/flask-calculator:latest
 **Access the app at:** `http://localhost:5000`
 
 ---
+<img width="1121" height="1003" alt="image" src="https://github.com/user-attachments/assets/f32bf2a3-dc88-4e9a-901d-c8d35341244b" />
 
