@@ -22,7 +22,7 @@ jobs:
     - name: Build and Push
       uses: docker/build-push-action@v5
       with:
-        context: .
+        context: ./Calculator_App_2025
         push: true
         # Verified: 183shubham is your Docker Hub name
         tags: 183shubham/flask-calculator:latest
