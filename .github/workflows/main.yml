@@ -22,7 +22,7 @@ jobs:
 
       - name: Run Tests
         # Since we are starting fresh, create a tiny test_app.py or skip this run
-        run: echo "No tests yet, but environment is ready!"
+        run: pytest test_app.py
 
   build-and-push:
     needs: test
